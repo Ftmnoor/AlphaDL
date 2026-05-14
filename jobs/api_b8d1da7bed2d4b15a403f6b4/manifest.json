@@ -1,0 +1,42 @@
+{
+  "job_id": "api_b8d1da7bed2d4b15a403f6b4",
+  "mode": "zip_split",
+  "file_url": "https://free-dl7.myalphadl.com/1qiL3QGc-rxSwbk1V29oYg/Good.Omens.S03E01.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL.mkv",
+  "suggested_filename": "Good.Omens.S03E01.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL.mkv",
+  "total_size_bytes": 473374459,
+  "created_at_utc": "2026-05-14T19:35:24.761428+00:00",
+  "zip_folder": "jobs/api_b8d1da7bed2d4b15a403f6b4/zip",
+  "zip_main_file": "Good.Omens.S03E01.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.zip",
+  "zip_parts": [
+    {
+      "name": "Good.Omens.S03E01.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.z01",
+      "path": "jobs/api_b8d1da7bed2d4b15a403f6b4/zip/Good.Omens.S03E01.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.z01",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Good.Omens.S03E01.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.z02",
+      "path": "jobs/api_b8d1da7bed2d4b15a403f6b4/zip/Good.Omens.S03E01.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.z02",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Good.Omens.S03E01.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.z03",
+      "path": "jobs/api_b8d1da7bed2d4b15a403f6b4/zip/Good.Omens.S03E01.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.z03",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Good.Omens.S03E01.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.z04",
+      "path": "jobs/api_b8d1da7bed2d4b15a403f6b4/zip/Good.Omens.S03E01.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.z04",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Good.Omens.S03E01.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.z05",
+      "path": "jobs/api_b8d1da7bed2d4b15a403f6b4/zip/Good.Omens.S03E01.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.z05",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Good.Omens.S03E01.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.zip",
+      "path": "jobs/api_b8d1da7bed2d4b15a403f6b4/zip/Good.Omens.S03E01.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.zip",
+      "size_bytes": 1515533
+    }
+  ]
+}
